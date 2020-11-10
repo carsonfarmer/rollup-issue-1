@@ -1,0 +1,10 @@
+{
+  "name": "test",
+  "scripts": {
+    "rollup": "rollup -c"
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^10.0.0",
+    "rollup": "^2.33.1"
+  }
+}
