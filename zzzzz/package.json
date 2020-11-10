@@ -1,5 +1,6 @@
 {
   "name": "zzzzz",
+  "version": "0.0.1",
   "exports": {
     ".": "./foo/nested/c.js",
     "./bar.js": "./bar/a.js"
